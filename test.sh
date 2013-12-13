@@ -1,5 +1,5 @@
 #!/bin/bash
-PROGRAM='./application.rb'
+PROGRAM='./mv.rb'
 DIR_WITH_TESTS='./tests'
 source ${DIR_WITH_TESTS}'/common.sh'
 clean_env
